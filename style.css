@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+img {
+  /* margin: 40px; */
+  border: 10px solid gray;
+  border-radius: 30px;
+  padding: 10px;
+  /* background: crimson; */
+}
+h1 {
+  text-align: center;
+  /* display: inline-block;
+  display: inline; */
+  background: crimson;
+}
